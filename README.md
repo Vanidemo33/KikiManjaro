@@ -6,23 +6,31 @@
   <a href="https://github.com/KikiManjaro"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Mobile%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ff65ce&vCenter=true&size=22"></a>
 </p>
 
-<br/>
 <h5 align='center'>
   <em>
   French Developer at  <a href="http://sas-impact.com/"> </a><img src="http://sas-impact.com/images/logo.png" width="160">
   </em>
 </h5>
 
+<h2 align='center'> 
+  📊 Stats
+</h2>
+
 <p align='center'>
   <a href="https://github.com/KikiManjaro">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KikiManjaro&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-    </br>
-    </br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikiManjaro&layout=compact&show_icons=true&theme=radical" />
   </a>
 </p>
 
-</br>
+<h2 align='center'> 
+  📜 Most used languages
+</h2>
+    
+<p align='center'>
+  <a href="https://github.com/KikiManjaro">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikiManjaro&layout=compact&show_icons=true&theme=radical" />
+  </a>
+</p>
 
 <h2 align='center'> 
   🛠️ My favorite tools
