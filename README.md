@@ -8,7 +8,7 @@
 
 <h5 align='center'>
   <em>
-  French Developer at  <a href="http://sas-impact.com/"> </a><img src="http://sas-impact.com/images/logo.png" width="160">
+  French Developer at  <a href="http://sas-impact.com"><img src="http://sas-impact.com/images/logo.png" width="160"> </a>
   </em>
 </h5>
 
