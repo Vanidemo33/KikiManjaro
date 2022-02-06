@@ -89,6 +89,12 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
+<h3 align='center'> 
+🏆 Github Trophy
+</h3>
+<p align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=KikiManjaro&theme=radical&row=1&no-frame=true&no-bg=true">
+</p>
 
 </br>
 
